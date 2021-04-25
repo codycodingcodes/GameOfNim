@@ -1,0 +1,6 @@
+﻿  GameOfNim.cpp
+C:\Users\cmcki\source\repos\GameOfNim\GameOfNim.cpp(63,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\cmcki\source\repos\GameOfNim\GameOfNim.cpp(94,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\cmcki\source\repos\GameOfNim\GameOfNim.cpp(128,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\cmcki\source\repos\GameOfNim\GameOfNim.cpp(218,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GameOfNim.vcxproj -> C:\Users\cmcki\source\repos\GameOfNim\Debug\GameOfNim.exe
